@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CProteinAbsQuanti" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>AbsoluteQuan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CProtein" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAACgCAAAAAAAAEgAAAAEAAAAACAAAAQABBBAA=</HashCode>
+      <FileName>BasicClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cpeptides" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAAAIAAAAAAAAAAAAAAAAABABAAAA=</HashCode>
+      <FileName>BasicClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Constants" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/////////////3///////3/f//f/e/////9////P//8=</HashCode>
+      <FileName>Constants.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PepAttributeWorker" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GIIAoEQAAREUAEAQAAMQkEABAADAIAAABAEIJAEABAA=</HashCode>
+      <FileName>PepAttributeWorker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPeptideAttribute" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>PepAttributeWorker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cstepwise" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QFBo5gAVAdSAAAwIFgAkQAEIKQYIhBgARJJDmiAACAQ=</HashCode>
+      <FileName>stepwise.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
