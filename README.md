@@ -1,2 +1,2 @@
 # ProteinQuantification
-this is a label-free quantification software programmed by C++. 
+this is a label-free quantification programmed by C++. 
