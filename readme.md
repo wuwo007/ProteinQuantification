@@ -1,1 +1,1 @@
-This is a test file for github log.
+This is a test file for github add a commit log.
